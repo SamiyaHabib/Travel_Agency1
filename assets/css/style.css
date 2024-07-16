@@ -227,6 +227,10 @@ body { background: var(--white); }
   padding-block: 15px;
   z-index: 1;
 }
+.own-video{
+  width: 700px !important;
+  height: 440px !important;
+}
 
 .header.active .header-top {
   position: fixed;
